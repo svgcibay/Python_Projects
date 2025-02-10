@@ -1,17 +1,5 @@
-🔝# Python_Projects
-
+🔝
 📌📌
-
-Beni takip etmek isterseniz : 
-[LinkedIn ]( www.linkedin.com/in/sevgiyazici-)
-
-
-Linkedin : www.linkedin.com/in/sevgiyazici-
-
-----------------
-
-📌📌
-Thank you 💻
-If you want to follow me : 
-Linkedin : [LinkedIn ]( www.linkedin.com/in/sevgiyazici-)
-Linkedin : www.linkedin.com/in/sevgiyazici-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/svgcibay) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sevgiyazc)
